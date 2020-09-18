@@ -1,4 +1,4 @@
-# Playground
+# Playground Alfred
 
 A place to play with `git`.
 
